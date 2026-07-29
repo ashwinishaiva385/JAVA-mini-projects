@@ -1,20 +1,16 @@
-# Student Marks Card System
 
-# Features
-- Accepts student name
-- Accepts marks for 5 subjects
+
+## 1. Student Marks Card
 - Calculates total marks
 - Calculates percentage
-- Displays grade for each subject
-- Displays PASS/FAIL result
+- Displays grade
+- Displays pass/fail result
 
-# Technologies Used
-- Java
-- VS Code
-
-# Sample Output
-
-Student Name : Ashwini A
-Total Marks  : 314
-Percentage   : 62%
-Result       : FAIL
+## 2. Menu Driven Calculator
+- Addition
+- Subtraction
+- Multiplication
+- Division
+- Handles division by zero
+- modulus
+- Uses switch-case and Scanner class
