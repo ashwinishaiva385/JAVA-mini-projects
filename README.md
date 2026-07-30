@@ -1,16 +1,53 @@
+# Student Marks Calculator
 
+## Description
+A simple Java console application to calculate a student's total marks, percentage, grade, and result.
 
-## 1. Student Marks Card
-- Calculates total marks
-- Calculates percentage
-- Displays grade
-- Displays pass/fail result
+## Features
+- Enter student details
+- Calculate total marks
+- Calculate percentage
+- Display grade
+- Display PASS/FAIL
 
-## 2. Menu Driven Calculator
+## Concepts Used
+- Java
+- Scanner Class
+- Variables
+- If-Else
+- Arithmetic Operator
+
+ # Menu Driven Calculator
+## Description
+A Java console application that performs basic arithmetic operations using a menu-driven approach.
+
+## Features
 - Addition
 - Subtraction
 - Multiplication
 - Division
-- Handles division by zero
-- modulus
-- Uses switch-case and Scanner class
+- Modulus
+
+## Concepts Used
+- Java
+- Scanner Class
+- Switch Statement
+- Arithmetic Operators
+
+# Student Management System
+
+## Description
+A Java console application to store and manage student details using arrays.
+
+## Features
+- Add Student
+- Display Student Details
+- Update Student Marks
+
+## Concepts Used
+- Java
+- Scanner Class
+- Arrays
+- Loops
+- If-Else
+- String equals()
