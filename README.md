@@ -51,3 +51,27 @@ A Java console application to store and manage student details using arrays.
 - Loops
 - If-Else
 - String equals()
+
+
+
+# Employee Management System
+## Description
+A simple Java console application to manage employee details using classes, objects, constructors, and arrays of objects.
+
+## Features
+- Add Employee Details
+- Display Employee Details
+- Search Employee by ID
+- Update Employee Salary
+- Display Employees with Salary Greater Than ₹50,000
+
+## Technologies Used
+- Java
+- VS Code
+
+## Concepts Used
+- Classes and Objects
+- Constructors
+- Array of Objects
+- Methods
+- Scanner
