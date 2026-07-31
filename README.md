@@ -75,3 +75,27 @@ A simple Java console application to manage employee details using classes, obje
 - Array of Objects
 - Methods
 - Scanner
+
+
+#Bank Account System
+## Description
+This is a simple Java project demonstrating the concept of Encapsulation using a Bank Account System.
+
+## Concepts Used
+- Classes and Objects
+- Encapsulation
+- Private Variables
+- Getters
+- Setters
+- this Keyword
+- Data Validation
+
+## Features
+- Store account number, holder name, and balance.
+- Access data using getter methods.
+- Modify data using setter methods.
+- Prevent negative balance using validation.
+
+## Technologies Used
+- Java
+- VS Code
