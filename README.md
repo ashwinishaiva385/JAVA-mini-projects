@@ -99,3 +99,19 @@ This is a simple Java project demonstrating the concept of Encapsulation using a
 ## Technologies Used
 - Java
 - VS Code
+
+
+# Paytm Payment System
+## Description
+A simple Java console application demonstrating Object-Oriented Programming concepts using a Paytm payment system.
+
+## Concepts Used
+- Inheritance
+- Method Overriding
+- Runtime Polymorphism
+- Classes and Objects
+
+## Payment Methods
+- UPI Payment
+- Credit Card Payment
+- Net Banking Payment
