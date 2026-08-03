@@ -115,3 +115,22 @@ A simple Java console application demonstrating Object-Oriented Programming conc
 - UPI Payment
 - Credit Card Payment
 - Net Banking Payment
+
+# Employee Management System
+## Description
+This is a simple Java project to learn the `super` keyword.
+
+## Concepts Used
+- Inheritance
+- super() constructor
+- super.display()
+- Method Overriding
+
+## Features
+- Stores employee details.
+- Displays employee name and salary.
+- Displays the developer's programming language.
+
+## Technology
+- Java
+- VS Code
