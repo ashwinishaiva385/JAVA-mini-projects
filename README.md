@@ -134,3 +134,19 @@ This is a simple Java project to learn the `super` keyword.
 ## Technology
 - Java
 - VS Code
+
+# Shape Area Calculator
+A simple Java mini project to calculate the area of different shapes.
+
+## Features
+- Circle Area
+- Rectangle Area
+- Square Area
+- Switch Case
+- Abstract Class
+- Inheritance
+- Method Overriding
+
+## Technologies
+- Java
+- VS Code
