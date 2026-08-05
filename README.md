@@ -150,3 +150,24 @@ A simple Java mini project to calculate the area of different shapes.
 ## Technologies
 - Java
 - VS Code
+
+
+# Employee Counter
+## Description
+A simple Java project that counts the total number of employees using the `static` keyword.
+
+## Concepts Used
+- Classes and Objects
+- Constructor
+- Static Variable
+- Array of Objects
+- For Loop
+
+## How It Works
+- Creates 5 Employee objects.
+- Each time an Employee object is created, the constructor increases the static `count` variable.
+- Finally, the total number of employees is displayed.
+
+## Output
+
+The total number of employees : 5
