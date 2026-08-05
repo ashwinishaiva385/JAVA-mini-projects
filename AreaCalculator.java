@@ -15,7 +15,7 @@
    void calculator()
    {
     double area=3.14*radius*radius;
-    System.out.println("Area of circle = %.2f"+area);
+    System.out.println("Area of circle "+area);
    }
  }
  class Rectangle extends Shape
