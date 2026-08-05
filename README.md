@@ -171,3 +171,32 @@ A simple Java project that counts the total number of employees using the `stati
 ## Output
 
 The total number of employees : 5
+
+
+# Java Mini Projects
+This repository contains my Java practice programs and mini projects.
+
+## Topics Covered
+- Packages
+- Classes and Objects
+- Constructors
+- Inheritance
+- Polymorphism
+- Abstraction
+- Interfaces
+- Exception Handling
+- JDBC
+- MySQL
+
+## Projects
+- Calculator using Packages
+- Employee Management
+- Area Calculator
+- Student Management System (JDBC)
+
+## Technologies Used
+- Java
+- VS Code
+- MySQL
+- JDBC
+- Git & GitHub
