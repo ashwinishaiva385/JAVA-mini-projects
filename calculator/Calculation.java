@@ -10,3 +10,4 @@ public class Calculation
        System.out.println("Addition of two numbers = "+res);
     }
 }
+ 
