@@ -246,3 +246,42 @@ Word Count : 4
 Vowel Count : 9
 Consonant Count : 16
 Reverse : repoleved dnekcab si iniwhsa
+
+
+# Exception Handling Using Multiple Catch in Java
+## 📖 Description
+This project demonstrates exception handling in Java using multiple `catch` blocks. It shows how different exceptions are handled separately in a single `try` block.
+
+## 🚀 Concepts Used
+- try
+- catch
+- finally
+- Multiple Catch
+- ArrayIndexOutOfBoundsException
+- ArithmeticException
+- NumberFormatException
+- Scanner Class
+- Integer.parseInt()
+
+## 💻 Exceptions Handled
+1. ArrayIndexOutOfBoundsException
+2. ArithmeticException
+3. NumberFormatException
+
+## 📂 Output
+- Displays array element for a valid index.
+- Handles invalid array index.
+- Handles division by zero.
+- Handles invalid number format.
+- Executes the finally block after exception handling.
+
+## 🛠️ Technologies Used
+- Java
+- VS Code
+- JDK
+
+## 🎯 Learning Outcome
+- Understand Java exception handling.
+- Learn how multiple catch blocks work.
+- Know when to use finally.
+- Improve debugging and error handling skills.
