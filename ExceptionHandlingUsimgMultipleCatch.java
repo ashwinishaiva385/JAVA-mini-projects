@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class ExceptionHandling
+class ExceptionHandlingUsimgMultipleCatch
 {
   public static void main(String[] args)
   { 
