@@ -200,3 +200,49 @@ This repository contains my Java practice programs and mini projects.
 - MySQL
 - JDBC
 - Git & GitHub
+
+
+
+# Text Analyzer - Java Mini Project
+## 📌 Project Description
+This is a simple Java console application that analyzes a given text using String and StringBuilder concepts.
+
+## ✨ Features
+- Read text from the user
+- Display the original text
+- Count total characters
+- Count total words
+- Convert text to uppercase
+- Convert text to lowercase
+- Count vowels
+- Count consonants
+- Reverse the text using StringBuilder
+
+## 🛠 Technologies Used
+- Java
+- VS Code
+- Scanner Class
+- String
+- StringBuilder
+
+## 📚 Concepts Covered
+- String Methods
+- StringBuilder
+- User Input (Scanner)
+- Loops
+- Conditional Statements
+- Character Processing
+
+## ▶️ Sample Output
+
+Enter the Text:
+ashwini is backend developer
+
+Original Text : ashwini is backend developer
+Length : 28
+Uppercase : ASHWINI IS BACKEND DEVELOPER
+Lowercase : ashwini is backend developer
+Word Count : 4
+Vowel Count : 9
+Consonant Count : 16
+Reverse : repoleved dnekcab si iniwhsa
