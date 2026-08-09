@@ -306,3 +306,54 @@ The program checks the input and handles the exception using `try-catch`.
 
 ## Conclusion
 Learned how to declare and handle exceptions using the `throws` keyword.
+
+
+# Custom Exception Handling - Java
+## 📌 Description
+This project demonstrates how to create and use a custom exception in Java.
+
+## ✨ Concepts Covered
+- Exception Handling
+- Custom Exception
+- `try-catch`
+- `throw`
+- `extends Exception`
+- User-defined exceptions
+
+## 🛠️ Technology Used
+- Java
+
+## 📚 Example
+A custom exception is created by extending the `Exception` class.
+
+# ArrayList and LinkedList Practice
+
+## 📌 Description
+This project demonstrates the basic usage of the Java Collection Framework, especially the List interface and its implementations.
+
+## ✨ Concepts Covered
+
+### ArrayList
+- add()
+- get()
+- set()
+- remove()
+- size()
+
+### LinkedList
+- Creating a LinkedList
+- Adding elements
+- Accessing elements
+- Removing elements
+- Checking the size
+
+## 🛠️ Technology Used
+- Java
+- Collection Framework
+
+## 📚 Concepts
+- List Interface
+- ArrayList
+- LinkedList
+- Generics
+
