@@ -285,3 +285,24 @@ This project demonstrates exception handling in Java using multiple `catch` bloc
 - Learn how multiple catch blocks work.
 - Know when to use finally.
 - Improve debugging and error handling skills.
+
+
+# Throws Keyword in Java
+## Description
+This program demonstrates the use of the `throws` keyword in Java.
+
+## Concepts
+- throws
+- throw
+- try-catch
+- finally
+- Exception Handling
+
+## Technology
+- Java
+
+## Output
+The program checks the input and handles the exception using `try-catch`.
+
+## Conclusion
+Learned how to declare and handle exceptions using the `throws` keyword.
