@@ -357,3 +357,35 @@ This project demonstrates the basic usage of the Java Collection Framework, espe
 - LinkedList
 - Generics
 
+# Student Registration System using HashSet
+
+## 📌 Description
+
+This is a simple Java mini project created to understand the **Set Interface** and **HashSet** in the Java Collections Framework.
+
+The project allows users to manage student registrations using a menu-driven program.
+
+## 🚀 Features
+
+1. Add Students
+2. Display Registered Students
+3. Search for a Student
+4. Remove a Student
+5. Count the Number of Students
+6. Exit the Program
+
+## 🛠️ Concepts Used
+
+- Java Collections Framework
+- Set Interface
+- HashSet
+- Scanner
+- `add()`
+- `contains()`
+- `remove()`
+- `size()`
+- `while` loop
+- `for` loop
+- `switch` statement
+  
+
