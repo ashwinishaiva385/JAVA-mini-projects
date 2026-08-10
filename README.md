@@ -388,4 +388,33 @@ The project allows users to manage student registrations using a menu-driven pro
 - `for` loop
 - `switch` statement
   
+# Map Interface – Employee Directory
+
+## 📌 Description
+
+This mini project demonstrates the basic concepts of the Java Map Interface using an Employee Directory.
+
+Employee ID is used as the key and Employee Name is stored as the value.
+
+## 🛠️ Concepts Used
+
+- Map Interface
+- HashMap
+- Key-Value pairs
+- put()
+- get()
+- remove()
+- containsKey()
+- entrySet()
+- Enhanced for loop
+
+## ⚙️ Operations
+
+The program performs the following operations:
+
+1. Add employee details
+2. Fetch employee name using Employee ID
+3. Display all employees
+4. Remove an employee using Employee ID
+5. Check whether an employee exists
 
