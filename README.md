@@ -433,3 +433,18 @@ Generics allow us to write reusable and type-safe code that can work with differ
 - Generic Methods
 - Type Safety
 - Using Generics with `ArrayList`
+
+Java Multithreading 🧵
+
+Description
+
+A simple Java project to understand the basics of multithreading.
+
+Concepts Used
+
+- Thread class
+- Runnable interface
+- "start()"
+- "run()"
+- "sleep()"
+- Multiple threads
