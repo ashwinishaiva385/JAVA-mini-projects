@@ -418,3 +418,18 @@ The program performs the following operations:
 4. Remove an employee using Employee ID
 5. Check whether an employee exists
 
+# Java Generics
+
+## 📌 Overview
+
+This project demonstrates the basic concept of **Generics in Java**.
+
+Generics allow us to write reusable and type-safe code that can work with different data types.
+
+## 🧠 Concepts Covered
+
+- Generic Classes
+- Type Parameter `<T>`
+- Generic Methods
+- Type Safety
+- Using Generics with `ArrayList`
